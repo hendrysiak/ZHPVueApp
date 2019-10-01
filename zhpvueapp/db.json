@@ -1,0 +1,77 @@
+{
+    "ranks": [{
+            "id": 1,
+            "name": "Samarytanka",
+            "requirements": [{
+                    "id": 1,
+                    "name": "Znam swoje dobre strony. Rozwijam i potrafię je wykorzystać na rzecz innych.",
+                    "propositions": [{
+                            "id": 1,
+                            "wymaganie": "Każdego dnia wykonuję dobry uczynek, wykorzystując swoje talenty."
+                        },
+                        {
+                            "id": 2,
+                            "wymaganie": "Pomagam młodszej siostrze w nauce angielskiego."
+                        },
+                        {
+                            "id": 3,
+                            "wymaganie": "Prowadzę dziennik, notując swoje sukcesy, by zrozumieć swoje mocne strony."
+                        }
+                    ]
+                },
+
+                {
+                    "id": 2,
+                    "name": "Poszukuję autorytetów. Czerpię z nich motywację do pracy nad sobą.",
+                    "propositions": [{
+                            "id": 1,
+                            "wymaganie": "Przygotuję pracę na temat swojego autorytetu."
+                        },
+                        {
+                            "id": 2,
+                            "wymaganie": "Wraz z autorytetem przygotuję imprezę harcerską."
+                        },
+                        {
+                            "id": 3,
+                            "wymaganie": "Znam cechy mojego autorytetu, które wprawiają mnie w podziw. Wdrażam je do swojego działania. "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Harcerz Rzeczypospolitej",
+            "requirements": [{
+                    "id": 1,
+                    "name": "Praca nad sobą",
+                    "propositions": [{
+                        "id": 1,
+                        "wymaganie": "W pracy nad sobą umacnia swoje zalety i niweluje wady oraz słabości. Dba o zdrowie i kondycję fizyczną. Rozwija swoją osobowość przez udział w różnych formach życia duchowego i kulturalnego."
+                    }]
+                },
+                {
+                    "id": 2,
+                    "name": "Służba",
+                    "propositions": [{
+                            "id": 1,
+                            "wymaganie": "Pełni stałą służbę, która przynosi wymierne efekty."
+                        }
+
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Poszukiwanie swojego miejsca w społeczeństwie",
+                    "propositions": [{
+                            "id": 1,
+                            "wymaganie": "Poszukując swojego miejsca w społeczeństwie, konsekwentnie realizuje swój pomysł na życie: w nauce i w pracy, w rodzinie, rozwijając pasje i zainteresowania. Zna swoje prawa i obowiązki, wynikające z pełnionych ról społecznych, stara się wywiązywać z nich jak najlepiej. Wie, na czym opiera się system państwa prawa, zna w nim swoje miejsce. Szuka drogi osiągnięcia samodzielności ekonomicznej."
+                        }
+
+                    ]
+                }
+            ]
+
+        }
+    ]
+}
